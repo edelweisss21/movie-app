@@ -1,0 +1,7 @@
+{
+	"run": "yarn dev",
+	"web_server_url": "http://localhost:5173",
+	"run_prettier": true,
+	"prefab_dir": "src/prefabs",
+	"include": ["src"]
+}
